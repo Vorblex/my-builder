@@ -1,4 +1,6 @@
-# Учебная сборка Loftschool
+#Воробей Александр
+
+## Учебная сборка Loftschool
 
 > Сборка работает на gulp версии 4.0. 
 
@@ -12,3 +14,8 @@
 4. ```npm install```
 6. ```run gulp``` 
 
+>Добавленны 2 задачи
+
+1. ```генерыция спрайтов gulp sprite```
+2. ```копирование файлов из папки source в build```
+2. ```jquery перемещен из devDependencies в dependencies```
